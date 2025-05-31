@@ -1,2 +1,9 @@
 # Vision
-A collection of algorithms, models, and scripts for image processing, object detection, and deep learning-based vision tasks. Includes OpenCV, YOLO, CNN implementations, and real-world applications.
+*From pixels to deep learning—A hands-on journey through classic and modern CV techniques.*
+
+A **structured roadmap** to master Computer Vision, featuring:  
+- 📚 **Foundations**: OpenCV, filters, transformations  
+- 🧠 **ML-Driven CV**: Feature extraction, clustering  
+- 🚀 **Deep Learning**: CNNs, YOLO, ViTs, GANs  
+- 🔥 **Advanced**: Real-time apps, model optimization 
+
